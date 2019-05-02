@@ -8,6 +8,10 @@ All about servers
 
 ## [Day 2](https://github.com/cuongw/30-days-of-node/tree/master/day2)
 
-Day 2 : File System in node.js
+File System in node.js
+
+## [Day 3](https://github.com/cuongw/30-days-of-node/tree/master/day3)
+
+Regular Expressions in nodejs
 
 *Thank [nodejsera.com](https://www.nodejsera.com/30-days-of-node.html) for awesome challenges.*
