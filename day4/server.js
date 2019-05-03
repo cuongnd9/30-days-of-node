@@ -1,0 +1,12 @@
+console.time('day4');
+console.log('Hello Node');
+console.count('cuongw');
+console.clear();
+console.count('cuongw');
+console.count();
+console.count('cuongw');
+console.countReset('cuongw');
+console.count();
+console.count();
+console.count('cuongw');
+console.timeEnd('day4');

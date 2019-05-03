@@ -14,4 +14,8 @@ File System in node.js
 
 Regular Expressions in nodejs
 
+## [Day 4](https://github.com/cuongw/30-days-of-node/tree/master/day4)
+
+Console Module in nodejs
+
 *Thank [nodejsera.com](https://www.nodejsera.com/30-days-of-node.html) for awesome challenges.*
