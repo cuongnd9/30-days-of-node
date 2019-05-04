@@ -18,4 +18,8 @@ Regular Expressions in nodejs
 
 Console Module in nodejs
 
-*Thank [nodejsera.com](https://www.nodejsera.com/30-days-of-node.html) for awesome challenges.*
+## [Day 5](https://github.com/cuongw/30-days-of-node/tree/master/day5)
+
+All about errors in nodejs
+
+_Thank [nodejsera.com](https://www.nodejsera.com/30-days-of-node.html) for awesome challenges._
