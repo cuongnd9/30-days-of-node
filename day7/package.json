@@ -1,0 +1,9 @@
+{
+  "name": "day7",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "thinid": "^0.4.0"
+  }
+}
