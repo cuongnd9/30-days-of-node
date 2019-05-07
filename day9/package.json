@@ -1,0 +1,9 @@
+{
+  "dependencies": {
+    "bcrypt": "^3.0.6"
+  },
+  "name": "day9",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT"
+}

@@ -34,4 +34,8 @@ All about NPM
 
 Publishing packages on NPM
 
+## [Day 9](https://github.com/cuongw/30-days-of-node/tree/master/day9)
+
+Hash and HMAC
+
 _Thank [nodejsera.com](https://www.nodejsera.com/30-days-of-node.html) for awesome challenges._
