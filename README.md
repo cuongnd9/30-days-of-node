@@ -2,39 +2,39 @@
 
 🚀🌍 30 Days of Node
 
-## [Day 1](https://github.com/cuongw/30-days-of-node/tree/master/day1)
+## [Day 1](https://github.com/cuongw/30-days-of-node/tree/master/day01)
 
 All about servers
 
-## [Day 2](https://github.com/cuongw/30-days-of-node/tree/master/day2)
+## [Day 2](https://github.com/cuongw/30-days-of-node/tree/master/day02)
 
 File System in node.js
 
-## [Day 3](https://github.com/cuongw/30-days-of-node/tree/master/day3)
+## [Day 3](https://github.com/cuongw/30-days-of-node/tree/master/day03)
 
 Regular Expressions in nodejs
 
-## [Day 4](https://github.com/cuongw/30-days-of-node/tree/master/day4)
+## [Day 4](https://github.com/cuongw/30-days-of-node/tree/master/day04)
 
 Console Module in nodejs
 
-## [Day 5](https://github.com/cuongw/30-days-of-node/tree/master/day5)
+## [Day 5](https://github.com/cuongw/30-days-of-node/tree/master/day05)
 
 All about errors in nodejs
 
-## [Day 6](https://github.com/cuongw/30-days-of-node/tree/master/day6)
+## [Day 6](https://github.com/cuongw/30-days-of-node/tree/master/day06)
 
 Array Methods
 
-## [Day 7](https://github.com/cuongw/30-days-of-node/tree/master/day7)
+## [Day 7](https://github.com/cuongw/30-days-of-node/tree/master/day07)
 
 All about NPM
 
-## [Day 8](https://github.com/cuongw/30-days-of-node/tree/master/day8)
+## [Day 8](https://github.com/cuongw/30-days-of-node/tree/master/day08)
 
 Publishing packages on NPM
 
-## [Day 9](https://github.com/cuongw/30-days-of-node/tree/master/day9)
+## [Day 9](https://github.com/cuongw/30-days-of-node/tree/master/day09)
 
 Hash and HMAC
 
