@@ -66,4 +66,8 @@ All about streams
 
 Zlib Module
 
+## [Day 17](https://github.com/cuongw/30-days-of-node/tree/master/day17)
+
+CRUD in MySQL
+
 _Thank [nodejsera.com](https://www.nodejsera.com/30-days-of-node.html) for awesome challenges._
