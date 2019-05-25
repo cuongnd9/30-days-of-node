@@ -1,0 +1,9 @@
+{
+  "name": "day26",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "os": "^0.1.1"
+  }
+}
