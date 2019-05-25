@@ -1,0 +1,9 @@
+{
+  "name": "day22",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "string_decoder": "^1.2.0"
+  }
+}
