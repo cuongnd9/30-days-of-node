@@ -1,0 +1,9 @@
+{
+  "name": "day25",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "cluster": "^0.7.7"
+  }
+}
