@@ -94,4 +94,8 @@ String Decoder
 
 Debugger Module
 
+## [Day 24](https://github.com/cuongw/30-days-of-node/tree/master/day24)
+
+Child Processes
+
 _Thank [nodejsera.com](https://www.nodejsera.com/30-days-of-node.html) for awesome challenges._
