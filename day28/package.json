@@ -1,0 +1,39 @@
+{
+  "name": "magic-weather",
+  "version": "1.0.2",
+  "description": "🚀 Magic ☀️ weather for terminal.",
+  "main": "index.js",
+  "scripts": {
+    "lint": "eslint index.js"
+  },
+  "author": {
+    "name": "Cuong Duy Nguyen",
+    "email": "ndc07.it@gmail.com",
+    "url": "https://github.com/cuongw"
+  },
+  "license": "MIT",
+  "repository": "cuongw/magic-weather",
+  "bugs": {
+    "url": "https://github.com/cuongw/magic-weather/issues"
+  },
+  "homepage": "https://github.com/cuongw/magic-weather#readme",
+  "keywords": [
+    "cli-app",
+    "cli",
+    "weather",
+    "temperature",
+    "magic-weather"
+  ],
+  "dependencies": {
+    "axios": "^0.18.0",
+    "chalk": "^2.4.2",
+    "moment": "^2.24.0",
+    "ora": "^3.0.0"
+  },
+  "bin": {
+    "weather": "./index.js"
+  },
+  "devDependencies": {
+    "eslint": "^5.14.1"
+  }
+}
